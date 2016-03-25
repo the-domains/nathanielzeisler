@@ -1,7 +1,7 @@
 name: NathanielZeisler
 favicon: null
-layout_spectrum: 0.6992885051295161
-typography_spectrum: 0.073943194700405
+layout_spectrum: 0
+typography_spectrum: 0.18428
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.12925471016205847
+    - '#151930'
+    - '#a5c3e0'
+    - '#5e76b1'
+    - '#f8f5d6'
+    - '#c17b6e'
+  brandStrength: 0.25
   lightness: 0.2525931606069207
   saturation: 0.030166415264829993
   rhythmicContrast: 0.6986392335966229
