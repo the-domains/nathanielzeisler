@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NathanielZeisler]]></title>
         <description><![CDATA[NathanielZeisler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nathanielzeisler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 16:57:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 18:22:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nathanielzeisler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taylor Swift and Equity for Artists]]></title>
+            <description><![CDATA[<article><h1>Taylor Swift and Equity for Artists</h1><p>Taylor Swift recently pulled her entire catalog of songs off Spotify, arguing that there “should be an inherent value placed on art.”  It appears that Taylor made about $500,000last year in domestic streaming through Spotify.  Before her departure, she had millions of people playing her songs every day. Spotify argues that artists will reap the benefits of allowing their work to be streamed when a critical mass signs up for the service.  For people like Taylor Swift who already have a huge following, this potentially works out well.  For most musicians, Spotify is hardly an option. This article in the Atlantic is a dose of reality, stating that it takes over 4 million plays per month on Spotify for an artist to make a paltry $1,160.</p></article>]]></description>
+            <link>https://thegrid.ai/nathanielzeisler/taylor-swift-and-equity-for-artists/index.html</link>
+            <guid isPermaLink="false">c0f24bd7-ad5a-49d4-bcf0-a95e19191d70</guid>
+            <pubDate>Fri, 25 Mar 2016 18:21:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About: Nate Zeisler envisions a world where students majoring in the arts have a clear path to a sustainable career, where creative minds are empowered and inspired to rule the workforce, and where access to the arts is not just for the privileged few, but for all.</p>]]></description>
-            <link>undefinedabout-nate-zeisler-envisions-a-world-where-students-majorin/index.html</link>
+            <link>https://thegrid.ai/nathanielzeisler/about-nate-zeisler-envisions-a-world-where-students-majorin/index.html</link>
             <guid isPermaLink="false">7eab88b6-e2b1-43af-8bd4-11c87ea0c0cc</guid>
             <pubDate>Fri, 25 Mar 2016 16:56:47 GMT</pubDate>
         </item>
